@@ -5,7 +5,7 @@
     "EMAIL" : "kamilashyamsankar@gmail.com",
     "CONTACT" : "1111111111",
     "GENDER" : "MALE",
-    "IMAGE" : "profile.jpg",
+    "IMAGE" : "https://shyam7870.github.io/portfolio_json/profile.jpg",
     "SKILLS" :{
         "1" : "HTML",
         "2" : "CSS",
